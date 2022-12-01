@@ -1,4 +1,6 @@
 ### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=slice)
+
 <img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=200&section=header&text=Hello, Josh!&fontSize=90" />
 
 
