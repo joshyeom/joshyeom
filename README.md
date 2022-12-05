@@ -1,6 +1,9 @@
 <div align="center">
   
 <h1 align="center">Hi 👋, I'm Josh</h1>
+  
+  <br/>
+  <br/>
 
 
 ### About Josh 🤔  
@@ -17,8 +20,7 @@
   
 
 <br/>  
-
-<hr/>
+<br/>
   
   
 ## My Skill Set  😁
@@ -64,8 +66,11 @@
 <br/>  
 <br/>  
   
- <hr/>
-
+## My Projects 😏
+  
+  
+ <br/>
+ <br/>
 
 ## Github Stats  😎
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshyeom&show_icons=true&theme=radical) 
