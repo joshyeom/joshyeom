@@ -1,25 +1,26 @@
+<div align="center">
+  
 <h1 align="center">Hi 👋, I'm Josh</h1>
-<br/>
-<br/>
-
 
 
 ### About Josh 🤔  
-- 메인 언어 javaScript로 프론트엔드 개발에 관심을 가지고 있는 주니어 개발자  
+메인 언어 javaScript로 프론트엔드 개발에 관심을 가지고 있는 주니어 개발자  
   
 
-- 단순히 코드만 따라 치는 것이 아닌 능동적으로 생각하는 개발자  
+단순히 코드만 따라 치는 것이 아닌 능동적으로 생각하는 개발자  
   
 
-- 유저들의 관점에서 먼저 생각하고, 편의를 생각하는 개발자  
+유저들의 관점에서 먼저 생각하고, 편의를 생각하는 개발자  
   
 
-- 웹 표준을 이해하고, 인터넷 도덕성과 윤리성을 고려하는 개발자  
+웹 표준을 이해하고, 인터넷 도덕성과 윤리성을 고려하는 개발자  
   
 
 <br/>  
 
-
+<hr/>
+  
+  
 ## My Skill Set  😁
 <table><tr><td valign="top" width="33%">
 
@@ -62,6 +63,8 @@
 
 <br/>  
 <br/>  
+  
+ <hr/>
 
 
 ## Github Stats  😎
@@ -74,6 +77,5 @@
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+ 
+</div>
