@@ -7,7 +7,7 @@
   
 
 
-## About Josh 🤔
+## About Me 🤔
 메인 언어 javaScript로 프론트엔드 개발에 관심을 가지고 있는 주니어 개발자  
   
 
