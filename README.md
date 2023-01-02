@@ -117,4 +117,9 @@
 
 <br />
  
+  
+  
+  
+## Velog 🤓
+  [Velog](https://velog.io/@josh_yeom)
 </div>
