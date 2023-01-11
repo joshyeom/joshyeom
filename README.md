@@ -120,6 +120,6 @@
   
   
   
-## Velog 🤓
+## Velog (알고리즘 공부 / 지식 공부 / 강의 공부 메모)🤓
   [Velog](https://velog.io/@josh_yeom)
 </div>
